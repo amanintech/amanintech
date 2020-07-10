@@ -1,9 +1,9 @@
 
-# ![](aman.png) [🔗](https://amansharma.dev/) Aman Sharma
+# [🔗](https://amansharma.dev/) Aman Sharma
 <br>
 
 ![GitHub followers](https://img.shields.io/github/followers/amanintech?label=follow&style=social) 
-![Twitter Follow](https://img.shields.io/twitter/follow/amanintech?style=social) 
+[![](https://img.shields.io/twitter/follow/amanintech?style=social)](https://twitter.com/intent/follow?screen_name=amanintech)
 [![](https://img.shields.io/badge/linkedin----blue)](https://www.linkedin.com/in/amanintech/) 
 <br><br>
 ![WordPress Plugin: Required WP Version](https://img.shields.io/wordpress/plugin/wp-version/amp) 
@@ -32,3 +32,4 @@ ________________________________________________________________________________
 <br><br>
 <img width="683" alt="Screen Shot 2020-07-09 at 17 59 33" src="https://user-images.githubusercontent.com/89679/87104885-2425a900-c20e-11ea-9d06-d5e513fece95.png">
 
+a
