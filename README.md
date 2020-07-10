@@ -2,7 +2,7 @@
 
 <img src="https://github.com/egoist/egoist/raw/master/balloon.gif" width="50">
 
-##  Aman Sharma [🔗](https://amansharma.dev/) ![GitHub followers](https://img.shields.io/github/followers/amanintech?label=follow&style=social) [![](https://img.shields.io/twitter/follow/amanintech?style=social)](https://twitter.com/intent/follow?screen_name=amanintech) [![](https://img.shields.io/badge/linkedin----blue)](https://www.linkedin.com/in/amanintech/) 
+## [🔗](https://amansharma.dev/) Aman Sharma  ![GitHub followers](https://img.shields.io/github/followers/amanintech?label=follow&style=social) [![](https://img.shields.io/twitter/follow/amanintech?style=social)](https://twitter.com/intent/follow?screen_name=amanintech) [![](https://img.shields.io/badge/linkedin----blue)](https://www.linkedin.com/in/amanintech/) 
 
 
 
@@ -30,7 +30,9 @@ ________________________________________________________________________________
 ![npm (prod) dependency version](https://img.shields.io/npm/dependency-version/youtube-jukebox/gatsby)
 ![npm (prod) dependency version](https://img.shields.io/npm/dependency-version/rkp/@reach/router?color=blue&label=ghost&logo=ghost&logoColor=blue)
 ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/metabolize/rq-dashboard-on-heroku/flask)
-
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/metabolize/rq-dashboard-on-heroku/flask?label=pandas)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/metabolize/rq-dashboard-on-heroku/flask?label=numpy)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/metabolize/rq-dashboard-on-heroku/flask?label=scikit)
 <br>
 
 
