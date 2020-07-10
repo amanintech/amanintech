@@ -1,5 +1,20 @@
 
-# [🔗](https://amansharma.dev/) Aman Sharma
+## [🔗](https://amansharma.dev/) Aman Sharma
+<img src="https://github.com/egoist/egoist/raw/master/balloon.gif" width="50">
+
+### Hi there 👋
+______________________________________________
+* 🧬 CTO and Co-founder at [Twimbit](https://twimbit.com "Twimbit") , Singapore.
+* 📱 Founder and Lead at [Mobile-web.dev](https://mobile-web.dev "Twimbit")
+* 🧑🏼‍💻 Member of OpenSource Initiative, Deeplearning.ai and [AMP](https://amp.dev "Twimbit")
+* Founder of Atlancey & KiEvents , India
+* Former Recommender System Engineer at Upsell.ai , Greece
+* Former Web Engineer at Tomorrow Systems , Italy
+* Former Research Engineer at TU Wien, Austria
+ | [Twitter](https://www.linkedin.com/in/amanintech/)
+
+
+___________________________________________________________________________________
 <br>
 
 ![GitHub followers](https://img.shields.io/github/followers/amanintech?label=follow&style=social) 
@@ -17,17 +32,6 @@
 
 <br>
 
-______________________________
-* 🧬 CTO and Co-founder at [Twimbit](https://twimbit.com "Twimbit") , Singapore.
-* 📱 Founder and Lead at [Mobile-web.dev](https://mobile-web.dev "Twimbit")
-* 🧑🏼‍💻 Member of OpenSource Initiative, Deeplearning.ai and [AMP](https://amp.dev "Twimbit")
-* Founder of Atlancey & KiEvents , India
-* Former Recommender System Engineer at Upsell.ai , Greece
-* Former Web Engineer at Tomorrow Systems , Italy
-* Former Research Engineer at TU Wien, Austria
- | [Twitter](https://www.linkedin.com/in/amanintech/)
 
-
-___________________________________________________________________________________
 <br><br>
 <img width="683" alt="Screen Shot 2020-07-09 at 17 59 33" src="https://user-images.githubusercontent.com/89679/87104885-2425a900-c20e-11ea-9d06-d5e513fece95.png">
