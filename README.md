@@ -1,6 +1,10 @@
 
-## [🔗](https://amansharma.dev/) Aman Sharma
+
 <img src="https://github.com/egoist/egoist/raw/master/balloon.gif" width="50">
+
+##  Aman Sharma [🔗](https://amansharma.dev/) ![GitHub followers](https://img.shields.io/github/followers/amanintech?label=follow&style=social) [![](https://img.shields.io/twitter/follow/amanintech?style=social)](https://twitter.com/intent/follow?screen_name=amanintech) [![](https://img.shields.io/badge/linkedin----blue)](https://www.linkedin.com/in/amanintech/) 
+
+
 
 ### Hi there 👋
 ______________________________________________
@@ -17,10 +21,6 @@ ______________________________________________
 ___________________________________________________________________________________
 <br>
 
-![GitHub followers](https://img.shields.io/github/followers/amanintech?label=follow&style=social) 
-[![](https://img.shields.io/twitter/follow/amanintech?style=social)](https://twitter.com/intent/follow?screen_name=amanintech)
-[![](https://img.shields.io/badge/linkedin----blue)](https://www.linkedin.com/in/amanintech/) 
-<br><br>
 ![WordPress Plugin: Required WP Version](https://img.shields.io/wordpress/plugin/wp-version/amp) 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/django) ![PHP from Travis config](https://img.shields.io/travis/php-v/symfony/symfony) 
 ![npm (prod) dependency version](https://img.shields.io/npm/dependency-version/gatsby/graphql)
@@ -29,6 +29,7 @@ ________________________________________________________________________________
 ![npm (prod) dependency version](https://img.shields.io/npm/dependency-version/mondo/handlebars)
 ![npm (prod) dependency version](https://img.shields.io/npm/dependency-version/youtube-jukebox/gatsby)
 ![npm (prod) dependency version](https://img.shields.io/npm/dependency-version/rkp/@reach/router?color=blue&label=ghost&logo=ghost&logoColor=blue)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/metabolize/rq-dashboard-on-heroku/flask)
 
 <br>
 
