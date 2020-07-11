@@ -1,6 +1,7 @@
 
 
-<img src="https://github.com/egoist/egoist/raw/master/balloon.gif" width="50">
+<img src="500b27120a0a261bfab28f0390bf48df.gif" object-fit="cover" height="200"><img src="500b27120a0a261bfab28f0390bf48df.gif" object-fit="cover" height="200">
+
 
 ## [🔗](https://amansharma.dev/) Aman Sharma  ![GitHub followers](https://img.shields.io/github/followers/amanintech?label=follow&style=social) [![](https://img.shields.io/twitter/follow/amanintech?style=social)](https://twitter.com/intent/follow?screen_name=amanintech) [![](https://img.shields.io/badge/linkedin----blue)](https://www.linkedin.com/in/amanintech/) 
 
