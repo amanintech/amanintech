@@ -9,14 +9,13 @@
 
 ### Hi there 👋
 ______________________________________________
-* 🧬 CTO and Co-founder at [Twimbit](https://twimbit.com "Twimbit") , Singapore.
+* 🧬 CTO and Co-founder at [Twimbit](https://twimbit.com "Twimbit") .
 * 📱 Founder and Lead at [Mobile-web.dev](https://mobile-web.dev "Twimbit")
 * 🧑🏼‍💻 Member of OpenSource Initiative, Deeplearning.ai and [AMP](https://amp.dev "Twimbit")
-* Founder of Atlancey & KiEvents , India
-* Former Recommender System Engineer at Upsell.ai , Greece
+* Founder of Atlancey & KiEvents 
+* Former Recommender System Engineer at Upsell.ai , Athens
 * Former Web Engineer at Tomorrow Systems , Italy
 * Former Research Engineer at TU Wien, Austria
- | [Twitter](https://www.linkedin.com/in/amanintech/)
 
 
 ___________________________________________________________________________________
