@@ -16,6 +16,7 @@ ______________________________________________
 * Former Recommender System Engineer at Upsell.ai , Athens
 * Former Web Engineer at Tomorrow Systems , Italy
 * Former Research Engineer at TU Wien, Austria
+* Bachelor of Engineering from BIT MESRA
 
 
 ___________________________________________________________________________________
@@ -39,7 +40,7 @@ ________________________________________________________________________________
 
 <br>
 
-## GitHub for life 
+## GitHub 4 life 
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/amanintech.gif?z=6)](https://github4life.herokuapp.com/amanintech)
 
