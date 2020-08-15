@@ -3,9 +3,6 @@
 <img src="https://github.com/amanintech/amanintech/blob/master/500b27120a0a261bfab28f0390bf48df.gif" object-fit="cover" width="50%"><img src="https://github.com/amanintech/amanintech/blob/master/500b27120a0a261bfab28f0390bf48df.gif" object-fit="cover" width="50%">
 
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/amanintech.gif?z=6)](https://github4life.herokuapp.com/amanintech)
-
-
 ## [🔗](https://amansharma.dev/) Aman Sharma  [![GitHub followers](https://img.shields.io/github/followers/amanintech?label=follow&style=social)](https://github.com/amanintech)  [![](https://img.shields.io/twitter/follow/amanintech?style=social)](https://twitter.com/intent/follow?screen_name=amanintech) [![](https://img.shields.io/badge/linkedin----blue)](https://www.linkedin.com/in/amanintech/) 
 
 
@@ -24,6 +21,8 @@ ______________________________________________
 ___________________________________________________________________________________
 <br>
 
+## Stack
+
 ![WordPress Plugin: Required WP Version](https://img.shields.io/wordpress/plugin/wp-version/amp) 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/django) ![PHP from Travis config](https://img.shields.io/travis/php-v/symfony/symfony) 
 ![npm (prod) dependency version](https://img.shields.io/npm/dependency-version/gatsby/graphql)
@@ -40,4 +39,12 @@ ________________________________________________________________________________
 
 <br>
 
+## GitHub for life 
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/amanintech.gif?z=6)](https://github4life.herokuapp.com/amanintech)
+
+
+## Stats
+
 [![](https://github-readme-stats.vercel.app/api?username=amanintech&show_icons=true&title_color=000&icon_color=79ff97&text_color=9f9f9f&bg_color=fff)]()
+
