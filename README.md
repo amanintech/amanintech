@@ -3,6 +3,9 @@
 <img src="https://github.com/amanintech/amanintech/blob/master/500b27120a0a261bfab28f0390bf48df.gif" object-fit="cover" width="50%"><img src="https://github.com/amanintech/amanintech/blob/master/500b27120a0a261bfab28f0390bf48df.gif" object-fit="cover" width="50%">
 
 
+[![GitHub Game of Life](https://github4life.herokuapp.com/amanintech.gif?z=6)](https://github4life.herokuapp.com/amanintech)
+
+
 ## [🔗](https://amansharma.dev/) Aman Sharma  [![GitHub followers](https://img.shields.io/github/followers/amanintech?label=follow&style=social)](https://github.com/amanintech)  [![](https://img.shields.io/twitter/follow/amanintech?style=social)](https://twitter.com/intent/follow?screen_name=amanintech) [![](https://img.shields.io/badge/linkedin----blue)](https://www.linkedin.com/in/amanintech/) 
 
 
