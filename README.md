@@ -3,7 +3,7 @@
 <img src="https://github.com/amanintech/amanintech/blob/master/cover3.gif" object-fit="cover" width="100%">
 
 
-## [🔗](https://amansharma.dev/) Aman Sharma  [![GitHub followers](https://img.shields.io/github/followers/amanintech?label=follow&style=social)](https://github.com/amanintech)  [![](https://img.shields.io/twitter/follow/amanintech?style=social)](https://twitter.com/intent/follow?screen_name=amanintech) [![](https://img.shields.io/badge/linkedin----blue)](https://www.linkedin.com/in/amanintech/) [![](<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Aman Sharma's DEV Profile" height="30" width="30">)](https://dev.to/amanintech)
+## [🔗](https://amansharma.dev/) Aman Sharma  [![GitHub followers](https://img.shields.io/github/followers/amanintech?label=follow&style=social)](https://github.com/amanintech)  [![](https://img.shields.io/twitter/follow/amanintech?style=social)](https://twitter.com/intent/follow?screen_name=amanintech) [![](https://img.shields.io/badge/linkedin----blue)](https://www.linkedin.com/in/amanintech/)  [![Aman Sharma's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/amanintech)
 
 
 
