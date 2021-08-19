@@ -41,13 +41,6 @@ ________________________________________________________________________________
 
 <br>
 
-## GitHub 4 life 
-
-[![GitHub Game of Life](https://github4life.herokuapp.com/amanintech.gif?z=6)](https://github4life.herokuapp.com/amanintech)
-
-
 ## Stats
 
 [![](https://github-readme-stats.vercel.app/api?username=amanintech&show_icons=true&title_color=000&icon_color=79ff97&text_color=9f9f9f&bg_color=fff)]() [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanintech&layout=compact)]()
-
-https://www.beautiful.ai/player/-MPSmLUk-EhtgeY9KqPe
