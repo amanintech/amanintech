@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/amanintech/amanintech/blob/master/cover3.gif" object-fit="cover" width="100%">
+<img src="https://amanin.tech/_next/image?url=https%3A%2F%2Fwww.notion.so%2Fimage%2Fhttps%253A%252F%252Fs3-us-west-2.amazonaws.com%252Fsecure.notion-static.com%252F8bd28159-5549-4721-b505-1d82ac26fec3%252FBlack_Technology_LinkedIn_Banner_(4).png%3Ftable%3Dblock%26id%3De43926dc-27ec-4c48-95fe-222e8e8a2325%26cache%3Dv2&w=3840&q=75" object-fit="cover" width="100%">
 
 
 ## [🔗](https://amansharma.dev/) Aman Sharma  [![GitHub followers](https://img.shields.io/github/followers/amanintech?label=follow&style=social)](https://github.com/amanintech)  [![](https://img.shields.io/twitter/follow/amanintech?style=social)](https://twitter.com/intent/follow?screen_name=amanintech) [![](https://img.shields.io/badge/linkedin----blue)](https://www.linkedin.com/in/amanintech/) 
