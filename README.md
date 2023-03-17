@@ -10,7 +10,8 @@
 
 ### Hi there 👋
 ______________________________________________
-* 🧬 CTO and Co-founder at [Twimbit](https://twimbit.com "Twimbit") .
+* 🧑 Early Stage Startup Fractional CTO and Technology Advisor
+* 🧬 Former CTO and Co-founder at [Twimbit](https://twimbit.com "Twimbit") .
 * 📱 Founder and Lead at [Mobile-web.dev](https://mobile-web.dev "Twimbit")
 * 🧑🏼‍💻 Member of OpenSource Initiative, Deeplearning.ai and [AMP](https://amp.dev "Twimbit")
 * Founder of Atlancey & KiEvents 
